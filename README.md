@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Prithish Soni  
-📍 Rancho Cordova, CA | ✉️ [soniprithish25@gmail.com](mailto:soniprithish25@gmail.com)  
+📍 San Francisco Bay Area | ✉️ [soniprithish25@gmail.com](mailto:soniprithish25@gmail.com)  
 ---
 ### 🚀 About Me  
 I’m passionate about building intelligent, data-driven solutions and scalable backend systems.  
