@@ -10,6 +10,10 @@
   <img src="https://img.shields.io/badge/Resume-6C63FF?style=for-the-badge&logo=readthedocs&logoColor=white" />
 </a>&nbsp;
   <a href="https://github.com/SoniPrithish"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+   <!-- NEW PORTFOLIO BUTTON -->
+  <a href="https://prithish.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 </div>
