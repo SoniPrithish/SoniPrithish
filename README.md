@@ -37,6 +37,7 @@ Education: California State University, Sacramento
 Motto: "Code with curiosity. Build with purpose."
 ```
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/prithish20csu176)
 ---
 
 ## 🛠️ &nbsp;Tech Stack
