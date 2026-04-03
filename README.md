@@ -25,7 +25,7 @@
 ```yaml
 Name: Prithish Soni
 Location: San Francisco Bay Area, CA
-Target_Role: Software Development Engineer (New Grad / Entry-Level, OPT-friendly)
+Target_Role: Software Development Engineer (New Grad / Entry-Level, US OPT work authorization)
 Positioning: Software Engineer focused on backend systems and performance
 
 Core_Focus:
@@ -124,7 +124,7 @@ Repository: [SoniPrithish/multi_camera_tracking_system](https://github.com/SoniP
 
 ### 2) Secure Vault *(IN PROGRESS)*
 
-Repository: *Planned public release (currently private while core security modules are finalized)*
+Repository: *Planned public release after MVP security review (currently private; encryption + key-derivation modules in active development)*
 
 - Designing a zero-knowledge secure storage system with **AES-GCM + PBKDF2**.
 - Implementing an offline-first architecture for resilient local data access.
