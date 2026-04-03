@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+%F0%9F%91%8B+I'm+Prithish+Soni;Builder+%7C+Tinkerer+%7C+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+%F0%9F%91%8B+I'm+Prithish+Soni;Software+Engineer+%7C+Backend+%7C+Systems)](https://git.io/typing-svg)
 
 <p>
   <a href="mailto:soniprithish25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
@@ -25,19 +25,26 @@
 ```yaml
 Name: Prithish Soni
 Location: San Francisco Bay Area, CA
-Role: Software Engineer & ML Enthusiast
+Target_Role: Software Development Engineer (New Grad / Entry-Level, OPT-friendly)
+Positioning: Software Engineer focused on backend systems and performance
 
-Currently_Building:
-  - Intelligent data-driven applications
+Core_Focus:
   - Scalable backend systems
-  - Computer vision pipelines
+  - System design for reliability and throughput
+  - Performance optimization (latency, concurrency, real-time processing)
+
+Experience:
+  - Real-time multi-stream systems engineering
+  - Privacy-focused product development
+  - ML/CV as supporting systems experience (not primary focus)
 
 Education: California State University, Sacramento
 
-Motto: "Code with curiosity. Build with purpose."
+Motto: "Engineer for scale, speed, and reliability."
 ```
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/prithish20csu176)
+
 ---
 
 ## 🛠️ &nbsp;Tech Stack
@@ -54,7 +61,7 @@ Motto: "Code with curiosity. Build with purpose."
 </td>
 </tr>
 <tr>
-<td><b>AI / ML</b></td>
+<td><b>Systems / Data</b></td>
 <td>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
@@ -92,6 +99,51 @@ Motto: "Code with curiosity. Build with purpose."
 </td>
 </tr>
 </table>
+
+---
+
+## ⚡ &nbsp;Key Highlights
+
+- Engineered real-time monitoring pipelines that process **2–6 concurrent video streams** with GPU acceleration.
+- Optimized system performance for **15–30 FPS** workloads through concurrency and latency-focused design.
+- Designed backend architectures that prioritize **throughput, reliability, and clean data flow**.
+- Implemented privacy-first utilities with **100% client-side execution** for secure file handling.
+- Apply ML/CV components where useful, while maintaining a **systems-first engineering approach**.
+
+---
+
+## 📌 &nbsp;Featured Systems
+
+### 1) Multi-Camera Intelligent Monitoring System
+Repository: [SoniPrithish/multi_camera_tracking_system](https://github.com/SoniPrithish/multi_camera_tracking_system)
+
+- Designed a real-time monitoring system for person tracking across **2–6 camera streams**.
+- Engineered CUDA-accelerated processing pipelines delivering **15–30 FPS**.
+- Implemented concurrent stream orchestration and low-latency event processing.
+- Integrated computer vision modules as part of a broader scalable systems architecture.
+
+### 2) Secure Vault *(IN PROGRESS)*
+
+- Designing a zero-knowledge secure storage system with **AES-GCM + PBKDF2**.
+- Implementing an offline-first architecture for resilient local data access.
+- Focusing on backend security design, encryption workflows, and safe data handling.
+
+### 3) Privacy-First In-Browser Utility Platform
+Repository: [SoniPrithish/utilitytools](https://github.com/SoniPrithish/utilitytools) • Live: [prithish.me](https://prithish.me)
+
+- Engineered **10+ utility tools** with 100% client-side processing and zero server uploads.
+- Optimized browser-side pipelines to efficiently process files up to **~100MB**.
+- Balanced performance, UX, and product usability for practical day-to-day workflows.
+
+---
+
+## 🔗 &nbsp;Links to Public Repositories
+
+- Multi-Camera Monitoring: https://github.com/SoniPrithish/multi_camera_tracking_system
+- Utility Platform: https://github.com/SoniPrithish/utilitytools
+- Portfolio Website: https://prithish.com
+- GitHub Profile Repositories: https://github.com/SoniPrithish?tab=repositories
+- LinkedIn: https://linkedin.com/in/prithishsoni
 
 ---
 
