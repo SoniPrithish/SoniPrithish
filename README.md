@@ -104,11 +104,11 @@ Motto: "Engineer for scale, speed, and reliability."
 
 ## ⚡ &nbsp;Key Highlights
 
-- Engineered real-time monitoring pipelines that process **2–6 concurrent video streams** with GPU acceleration.
-- Optimized system performance for **15–30 FPS** workloads through concurrency and latency-focused design.
+- Engineered real-time processing systems with a strong focus on concurrency and low-latency execution.
 - Designed backend architectures that prioritize **throughput, reliability, and clean data flow**.
-- Implemented privacy-first utilities with **100% client-side execution** for secure file handling.
-- Apply ML/CV components where useful, while maintaining a **systems-first engineering approach**.
+- Implemented performance optimization strategies across compute-heavy and browser-side workloads.
+- Built privacy-first user-facing systems with secure, client-side data handling patterns.
+- Applied ML/CV selectively as supporting components within broader software systems.
 
 ---
 
@@ -124,7 +124,7 @@ Repository: [SoniPrithish/multi_camera_tracking_system](https://github.com/SoniP
 
 ### 2) Secure Vault *(IN PROGRESS)*
 
-Repository: *Private / in build phase (public link coming soon)*
+Repository: *Planned public release (currently private while core security modules are finalized)*
 
 - Designing a zero-knowledge secure storage system with **AES-GCM + PBKDF2**.
 - Implementing an offline-first architecture for resilient local data access.
