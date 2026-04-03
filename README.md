@@ -61,7 +61,7 @@ Motto: "Engineer for scale, speed, and reliability."
 </td>
 </tr>
 <tr>
-<td><b>Systems / Data</b></td>
+<td><b>ML / Data (Supporting)</b></td>
 <td>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
@@ -124,6 +124,8 @@ Repository: [SoniPrithish/multi_camera_tracking_system](https://github.com/SoniP
 
 ### 2) Secure Vault *(IN PROGRESS)*
 
+Repository: *Private / in build phase (public link coming soon)*
+
 - Designing a zero-knowledge secure storage system with **AES-GCM + PBKDF2**.
 - Implementing an offline-first architecture for resilient local data access.
 - Focusing on backend security design, encryption workflows, and safe data handling.
@@ -141,7 +143,8 @@ Repository: [SoniPrithish/utilitytools](https://github.com/SoniPrithish/utilityt
 
 - Multi-Camera Monitoring: https://github.com/SoniPrithish/multi_camera_tracking_system
 - Utility Platform: https://github.com/SoniPrithish/utilitytools
-- Portfolio Website: https://prithish.com
+- Portfolio Website (primary): https://prithish.com
+- Utility Platform (product): https://prithish.me
 - GitHub Profile Repositories: https://github.com/SoniPrithish?tab=repositories
 - LinkedIn: https://linkedin.com/in/prithishsoni
 
